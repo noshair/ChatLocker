@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="action_bar_size">16dp</dimen>
+    <dimen name="ccp_padding">8dp</dimen>
+    <dimen name="clock_face_margin_start">64dp</dimen>
+    <dimen name="code_fp_margin">5dp</dimen>
+    <dimen name="compat_button_inset_horizontal_material">4dp</dimen>
+    <dimen name="compat_button_inset_vertical_material">6dp</dimen>
+    <dimen name="compat_button_padding_horizontal_material">8dp</dimen>
+    <dimen name="compat_button_padding_vertical_material">4dp</dimen>
+    <dimen name="compat_control_corner_material">2dp</dimen>
+    <dimen name="compat_notification_large_icon_max_height">320dp</dimen>
+    <dimen name="compat_notification_large_icon_max_width">320dp</dimen>
+    <dimen name="dp10">10dp</dimen>
+    <dimen name="dp12">12dp</dimen>
+    <dimen name="dp16">16dp</dimen>
+    <dimen name="dp20">20dp</dimen>
+    <dimen name="dp200">200dp</dimen>
+    <dimen name="dp48">48dp</dimen>
+    <dimen name="dp5">5dp</dimen>
+    <dimen name="dp55">55dp</dimen>
+    <dimen name="dp56">56dp</dimen>
+    <dimen name="google_1x">8dp</dimen>
+    <dimen name="s14">14sp</dimen>
+    <dimen name="s16">16sp</dimen>
+    <dimen name="s18">18sp</dimen>
+
+    <dimen name="activity_home_caption_padding_side">@dimen/_6sdp</dimen>
+    <dimen name="activity_home_caption_padding_up_down">@dimen/_2sdp</dimen>
+    <dimen name="activity_info_padding_side">@dimen/_10sdp</dimen>
+    <dimen name="activity_info_padding_up_down">@dimen/_5sdp</dimen>
+    <dimen name="activity_setting_padding_side">@dimen/_15sdp</dimen>
+    <dimen name="activity_setting_padding_top_bottom">@dimen/_10sdp</dimen>
+
+    <dimen name="edge">10dp</dimen>
+
+    <dimen name="default_circular_width">3.5dp</dimen>
+    <dimen name="default_dimension">100dp</dimen>
+    <dimen name="default_radius">80dp</dimen>
+    <dimen name="default_text_size">50sp</dimen>
+
+
+</resources>

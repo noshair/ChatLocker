@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <attr name="title_text" format="string">
+    </attr>
+    <attr name="icon_srcCompat" format="reference">
+    </attr>
+
+    <attr name="circleRadius" format="dimension">
+    </attr>
+    <attr name="circularProgressIndicatorStyle" format="reference">
+    </attr>
+    <attr name="circular_color" format="color">
+    </attr>
+    <attr name="circular_progress_color" format="color">
+    </attr>
+    <attr name="circular_radius" format="dimension">
+    </attr>
+    <attr name="circular_width" format="dimension">
+    </attr>
+    <attr name="progress_text_size" format="dimension">
+    </attr>
+</resources>

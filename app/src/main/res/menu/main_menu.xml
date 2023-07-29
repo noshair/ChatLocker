@@ -1,0 +1,44 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    >
+    <item
+                android:id="@+id/nav_restart"
+                android:icon="@drawable/ic_restart"
+                android:background="?attr/actionBarItemBackground"
+                android:title="Restart Services"
+
+        app:showAsAction="always" />
+            <item
+                android:id="@+id/nav_support"
+                android:icon="@drawable/ic_support"
+                android:background="?attr/actionBarItemBackground"
+                app:showAsAction="always"
+                android:title="Support"
+                 />
+            <item
+                android:id="@+id/nav_share"
+                android:title="Share With Friends"
+                android:background="?attr/actionBarItemBackground"
+                app:showAsAction="always"
+                android:icon="@drawable/ic_share_with_friend"/>
+            <item
+                android:id="@+id/nav_privacy"
+                android:icon="@drawable/ic_privacy"
+                app:showAsAction="always"
+                android:background="?attr/actionBarItemBackground"
+                android:title="Privacy Policy"
+              />
+
+            <item
+                android:id="@+id/nav_about"
+                android:icon="@drawable/ic_about"
+                app:showAsAction="always"
+                android:background="?attr/actionBarItemBackground"
+                android:title="About us"
+                />
+
+
+
+
+</menu>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#ff000000</color>
+    <color name="blue_800">#1565c0</color>
+    <color name="gesture_bg">#48443c</color>
+    <color name="gray">#b9b9b9</color>
+    <color name="gray_800">#424242</color>
+    <color name="gray_line_color">#e5e5e5</color>
+    <color name="grey">#353434</color>
+
+    <color name="grey_dde1e7">#dde1e7</color>
+    <color name="light_grey">#898888</color>
+    <color name="purple_200">#ffbb86fc</color>
+    <color name="purple_500">@color/bg_drk</color>
+    <color name="purple_700">@color/bg_drk</color>
+    <color name="app_color">@color/bg_drk</color>
+    <color name="disable_color">#cccccc</color>
+    <color name="red">#ff0000</color>
+    <color name="success_color">#009688</color>
+    <color name="teal_200">#ff03dac5</color>
+    <color name="teal_700">#ff018786</color>
+    <color name="test">#221224</color>
+    <color name="warning_color">#f4511e</color>
+    <color name="whatsapp_green">#25d366</color>
+    <color name="white">#ffffffff</color>
+    <color name="white_selector_pf">#66ffffff</color>
+    <color name="yellow_gold">#FA4A14</color>
+    <color name="content_body_color">#fbfcff</color>
+    <color name="content_button_color">#b2e6e1</color>
+    <color name="content_edit_text_background_color">#f8f8f8</color>
+    <color name="content_floating_action_text_color">#dafdf8</color>
+    <color name="content_hint_color">#c5c5c5</color>
+    <color name="content_icon_tint_color">#5c6888</color>
+    <color name="content_info_background_color">#fff3f3f3</color>
+    <color name="content_info_color">#679691</color>
+    <color name="content_line_color">#ededed</color>
+    <color name="content_popup_edit_text_color">#f8f8f8</color>
+    <color name="content_saver_action_button_tint_color">#efefef</color>
+    <color name="content_sub_text_color">#5c6888</color>
+    <color name="content_text_color">#3b4664</color>
+    <color name="header_background_color">#fbfcff</color>
+    <color name="header_icon_tint_color">#3b4664</color>
+    <color name="header_text_color">#3b4664</color>
+    <color name="menu_card_action_background_color">#d3f8f8f8</color>
+    <color name="menu_card_background_color">#fff</color>
+    <color name="menu_card_btn_text_tint_color">#3b4664</color>
+    <color name="menu_card_btn_tint_color">#b2e6e1</color>
+    <color name="menu_card_image_tint_color">#3b4664</color>
+    <color name="menu_text_color">#3b4664</color>
+    <color name="defaultBorderFlagColor">@android:color/transparent</color>
+    <color name="defaultContentColor">@android:color/black</color>
+    <color name="default_circular_color">#1b1b25</color>
+    <color name="default_circular_progress_color">#ff17a878</color>
+
+    <color name="bg_drk">#1F6357</color>
+
+</resources>

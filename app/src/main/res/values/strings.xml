@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Whats Chat Locker</string>
+
+    <string name="Email">email</string>
+    <string name="about_us">About us</string>
+    <string name="add_contact">Add contacts/groups list</string>
+    <string name="added_contacts_groups">Added Contacts/Groups</string>
+    <string name="app_name_pf">PFLockScreen</string>
+    <string name="cancel_pf">Cancel</string>
+
+
+    <string name="accessibility_service_label">Give accessibility permission in order to lock Whatsapp chats and groups</string>
+    <string name="dismiss_button_content_description">Dismiss</string>
+    <string name="error_icon_content_description">Error</string>
+    <string name="exposed_dropdown_menu_content_description">Show dropdown menu</string>
+    <string name="fingerprint_description_pf">Confirm fingerprint to continue</string>
+    <string name="fingerprint_hint_pf">Touch sensor</string>
+    <string name="fingerprint_not_recognized_pf">Fingerprint not recognized. Try again</string>
+    <string name="fingerprint_success_pf">Fingerprint recognized</string>
+    <string name="forgot_pf">Forgot?</string>
+    <string name="full_app_lock">Full App Lock</string>
+    <string name="having_trouple_in_locking_chats_and_groups_go_to_setting_and_restart_the_service">Locking issues? Restart the service from more menu.</string>
+    <string name="hide_bottom_view_on_scroll_behavior">com.google.android.material.behavior.HideBottomViewOnScrollBehavior</string>
+    <string name="home">Home</string>
+    <string name="how_was_your_experience_with_this_app">How was your experience with this app</string>
+    <string name="icon_content_description">Dialog Icon</string>
+    <string name="if_you_are_facing_issue_during_our_service_please_restart_our_service">If you are facing issue during our service please restart our service</string>
+    <string name="item_view_role_description">Tab</string>
+    <string name="lock_screen_title_pf">Input pin code or use fingerprint</string>
+    <string name="manage">Manage Chats</string>
+    <string name="message">Message</string>
+    <string name="my_suggeston">My Suggestion</string>
+    <string name="next_pf">Next</string>
+    <string name="no_contacts_and_group_found_please_go_back_and_add_some_contact_to_secure_your_private_chats">No Contacts and group found. Please go back and add some contact to secure your private chats</string>
+    <string name="no_fingerprints_message_pf">No fingerprints found. Please add fingerprints in the settings if you want to use this authorization method.</string>
+    <string name="no_fingerprints_title_pf">No fingerprints found</string>
+    <string name="no_need">Send message to unknown numbers</string>
+    <string name="no_private_chats_and_group_chats_added_yet_click_on_the_add_contact_button_to_add_group_or_private_chats">No Private chats and group chats added yet. Click on the add contact button to add group and private chats</string>
+    <string name="no_result_found">Results not found</string>
+    <string name="not_now">Not Now</string>
+    <string name="ok_pf">OK</string>
+    <string name="password_toggle_content_description">Show password</string>
+    <string name="please_enter_your_date_of_birth">Please enter your Email</string>
+    <string name="please_rate_us">Please rate us</string>
+    <string name="privacy">Privacy Policy</string>
+    <string name="privacy_first">Privacy First</string>
+    <string name="privacy_policy">Read Our Privacy Policy Carefully</string>
+    <string name="rate_us">Rate Us</string>
+    <string name="remove">Remove</string>
+    <string name="restart_service">Restart Service</string>
+    <string name="search_hint">Search…</string>
+    <string name="search_menu_title">Search</string>
+    <string name="security">Code Recovery</string>
+    <string name="select">Select All</string>
+    <string name="select_country">Select a country</string>
+    <string name="select_country_code">Select Country Code</string>
+    <string name="send">Send</string>
+    <string name="settings">Settings</string>
+    <string name="settings_pf">Settings</string>
+    <string name="share">Share With Friends</string>
+    <string name="sign_in_pf">Sign in</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="submit">Submit</string>
+    <string name="support">Support</string>
+    <string name="tap_to_go_setting_and_turn_off_and_turn_on_again_service">Tap to go setting and turn off and turn on again Service</string>
+    <string name="turn_on_lock_for_whatsapp_chat">Lock for Whatsapp Chat - Turn On</string>
+    <string name="use_pin_pf">Use pin</string>
+    <string name="info_title_whats_booster">Boost WhatsApp Speed</string>
+    <string name="clear_cache">This Cleaner does not clear cache or something absurd to boost your WhatsApp, it goes deep inside and delete junk to make your WhatsApp smooth.</string>
+    <string name="image">Image</string>
+    <string name="cleanSuccess">Clean Successfully</string>
+    <string name="whatsAppCleaner">Whats Booster</string>
+    <string name="all_data_will_be_safe_in_your_device_we_dont_collect_any_information_from_you">All data will be safe in your device. We dont collect any information from you</string>
+
+    <string name="clear_search_button_content_description">Clear search</string>
+    <string name="clear_text_end_icon_content_description">Clear text</string>
+    <string name="confirm">Confirm</string>
+    <string name="description_fingerprint_icon_pf">Fingerprint icon</string>
+    <string name="direct_chat">Direct Chat</string>
+    <string name="search">Search</string>
+    <string name="bag">Bag</string>
+    <string name="favorite">Orders</string>
+    <string name="profile">Profile</string>
+    <string name="admob_app_id">ca-app-pub-3940256099942544~3347511713</string>
+    <string name="admob_banner_id">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="admob_interstitial">ca-app-pub-3940256099942544/1033173712</string>
+    <string name="app_version_1_0_0">App Version : 1.0.0</string>
+    <string name="enter_phone_number">Enter Phone Number</string>
+    <string name="write_message">Write Message..</string>
+    <string name="send1">Send</string>
+    <string name="chatlocker_whatsapp_chat_locker">ChatLocker - WhatsApp Chat locker</string>
+    <string name="turn_on">Turn On</string>
+    <string name="app_version_1_0_0_1">App Version : 1.0.0</string>
+
+    <string name="des1">Chat Locker app Needs Accessibility permission to run its Core Functionality. Permission Will be Used Only To : </string>
+    <string name="des4">I agree to use this accessibility permission</string>
+    <string name="des3">Note: This permission will not allow us to read or access any of your chat or file.</string>
+    <string name="des2">1. Monitor which chat you open/close on whatsapp messenger.</string>
+    <string name="des5">2. Lock/Unlock specific chat on whatsapp messenger.</string>
+    <string name="learn_more_about_our">Learn more about our</string>
+</resources>
